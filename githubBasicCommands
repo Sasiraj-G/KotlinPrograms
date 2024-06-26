@@ -1,0 +1,43 @@
+
+non-fast-forward error thsese command
+-------------------------------------
+
+>git status
+>git remote -v
+>git fetch origin main:tmp
+>git rebase tmp
+>git push origin main
+
+
+github
+------
+
+>First create a new repository
+>open the terminal insert these command
+>git config --global user.name "Sasiraj-G"
+>git config --global user.email "sasirajg2005@gmail.com"
+>open the IDE terminal and insert the these command
+>git clone "https:/"
+>cd folder
+>create a new file
+>git status
+>git add .
+>git status
+>git commit -m "any messagge"
+>git push origin main
+
+
+github files to local machine
+----------------------------
+>git pull
+
+Delete a github file
+--------------------
+
+>first delete the local folder
+>git status
+>git restore --staged k.txt
+>git status
+>git add k.txt
+>git commit -m "k.text deleted"
+>git push origin main
