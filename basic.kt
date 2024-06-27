@@ -119,7 +119,7 @@ fun main(){
 
  */
 
-//lambda function or higher order function
+//lambda function or higher order function fkdi
 
 
 
