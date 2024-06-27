@@ -122,6 +122,8 @@ fun main(){
 //lambda function or higher order function fkdi
 
 
-
+fun main(){
+    println("helo")
+}
 
 
